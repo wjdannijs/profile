@@ -89,3 +89,27 @@ a:hover {
     width: 300px;
   }
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #5F6C73;
+}
+#page-content {
+  margin-left: 100px;
+}
+
+#list-sidebar {
+  display: block;
+  list-style: none;
+  text-align: center;
+  padding-left: 0px;
+}
+
+#list-sidebar > li {
+  text-align: center;
+  padding: 20px 0px;
+}
