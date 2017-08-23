@@ -113,3 +113,8 @@ a:hover {
   text-align: center;
   padding: 20px 0px;
 }
+
+.background-image {
+    background: url('images/amsterdam.png') no-repeat center;
+    padding: 5px;
+}
